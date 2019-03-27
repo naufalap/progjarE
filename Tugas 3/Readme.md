@@ -1,3 +1,3 @@
 Cara run:
-1. Jalankan program udpfileserver.py
-2. Jalankan program udpfileclient.py di setiap subfolder
+1. Jalankan program server.py
+2. Jalankan program client.py
